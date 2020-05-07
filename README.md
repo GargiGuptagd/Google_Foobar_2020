@@ -1,2 +1,2 @@
-# PyTut
-Assignments implementing various Games and problem related to Data Structure
+# Leetcode_Challenges
+Everyday coding challenge with problem and their solution
